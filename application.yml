@@ -1,4 +1,0 @@
-logging:
-  level:
-    ROOT: TRACE
-    org.springframework.cloud.config: INFO
